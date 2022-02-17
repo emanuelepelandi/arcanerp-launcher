@@ -1,3 +1,5 @@
+<h2 class="subtitle" style="color: #bdc3c7">GG/MM</h2> <br>
+
 <p>- Aggiunto questo</p>
 <p>- Aggiunto anche questo</p>
 <p>- asdasdasdas</p>
