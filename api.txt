@@ -1,9 +1,3 @@
 <h2 class="pagetitle">18/02</h2> <br>
 
-<p>- Aggiunto questo</p>
-<p>- Aggiunto anche questo</p>
-<p>- asdasdasdas</p>
-<p>- sdfsdfgf</p>
-<p>- Aopiioppo</p>
-<p>dio cane</p>
-<p>CIAO GABBO SONO GABBO</p>
+<img src="https://cdn.discordapp.com/attachments/779328587949277243/943827049624248321/unknown.png">
