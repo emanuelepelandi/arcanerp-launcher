@@ -1,4 +1,5 @@
 # ArcaneRP Launcher
+>v.1.0.0
 
 Per scaricare l'ultima versione del launcher di ArcaneRP segui questi semplici
 passaggi!
